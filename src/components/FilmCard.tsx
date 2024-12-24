@@ -38,7 +38,7 @@ const FilmCard = ({
           <article className='details'>
             <h2>{currentFilm.Title}</h2>
             <p>
-              <strong>Directed By:</strong> {currentFilm.Director}
+              <strong>Directed ByBy :</strong> {currentFilm.Director}
             </p>
             <p>
               <strong>Starring:</strong> {currentFilm.Actors}
